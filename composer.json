@@ -1,0 +1,14 @@
+{
+    "name": "user/form",
+    "authors": [
+        {
+            "name": "VladislavSkripnichenko",
+            "email": "skripnichenko.vladislav@gmail.com"
+        }
+    ],
+    "require": {
+        "codeception/codeception": "*",
+        "codeception/module-phpbrowser": "^1.0.0",
+        "codeception/module-asserts": "^1.0.0"
+    }
+}
